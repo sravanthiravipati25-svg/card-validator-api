@@ -1,0 +1,11 @@
+C:\Users\Sravanthi\IdentityPaymentValidator.Microservices\src\Validation.Shared\bin\Debug\net10.0\Validation.Shared.deps.json
+C:\Users\Sravanthi\IdentityPaymentValidator.Microservices\src\Validation.Shared\bin\Debug\net10.0\Validation.Shared.dll
+C:\Users\Sravanthi\IdentityPaymentValidator.Microservices\src\Validation.Shared\bin\Debug\net10.0\Validation.Shared.pdb
+C:\Users\Sravanthi\IdentityPaymentValidator.Microservices\src\Validation.Shared\obj\Debug\net10.0\Validation.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sravanthi\IdentityPaymentValidator.Microservices\src\Validation.Shared\obj\Debug\net10.0\Validation.Shared.AssemblyInfoInputs.cache
+C:\Users\Sravanthi\IdentityPaymentValidator.Microservices\src\Validation.Shared\obj\Debug\net10.0\Validation.Shared.AssemblyInfo.cs
+C:\Users\Sravanthi\IdentityPaymentValidator.Microservices\src\Validation.Shared\obj\Debug\net10.0\Validation.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Sravanthi\IdentityPaymentValidator.Microservices\src\Validation.Shared\obj\Debug\net10.0\Validation.Shared.dll
+C:\Users\Sravanthi\IdentityPaymentValidator.Microservices\src\Validation.Shared\obj\Debug\net10.0\refint\Validation.Shared.dll
+C:\Users\Sravanthi\IdentityPaymentValidator.Microservices\src\Validation.Shared\obj\Debug\net10.0\Validation.Shared.pdb
+C:\Users\Sravanthi\IdentityPaymentValidator.Microservices\src\Validation.Shared\obj\Debug\net10.0\ref\Validation.Shared.dll

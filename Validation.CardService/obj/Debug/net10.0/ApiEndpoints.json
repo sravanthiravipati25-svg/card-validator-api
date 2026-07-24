@@ -1,0 +1,50 @@
+[
+  {
+    "ContainingType": "Validation.CardService.Controllers.CardValidationController",
+    "Method": "ValidateBulk",
+    "RelativePath": "api/card/bulk-validate",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "file",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Validation.CardService.Controllers.CardValidationController",
+    "Method": "GetHistory",
+    "RelativePath": "api/card/history",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "count",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Validation.CardService.Controllers.CardValidationController",
+    "Method": "ValidateSingle",
+    "RelativePath": "api/card/validate",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Validation.CardService.DTOs.CardValidateRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
