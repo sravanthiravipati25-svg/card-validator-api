@@ -44,7 +44,7 @@ app.UseSwaggerUI();
 
 //app.UseHttpsRedirection();
 
-app.UseCors("AllowReactDev");
+app.UseCors("AllowReactApp");
 
 app.UseAuthorization();
 
