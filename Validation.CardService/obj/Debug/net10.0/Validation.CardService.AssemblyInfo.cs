@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Validation.CardService")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eb290efb9b59aa22b3ef24810aaed55d7c3a8e9f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d585d5c543311886475e09ed72e67f18e268c343")]
 [assembly: System.Reflection.AssemblyProductAttribute("Validation.CardService")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Validation.CardService")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
