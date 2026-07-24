@@ -25,9 +25,12 @@ builder.Services.AddScoped<ICardValidationService, CardValidationService>();
 
 builder.Services.AddCors(options =>
 {
-    options.AddPolicy("AllowReactDev", policy =>
+    options.AddPolicy("AllowReactApp", policy =>
     {
-        policy.WithOrigins("http://localhost:5173")
+        policy.WithOrigins(
+                "http://localhost:5173",
+                "https://card-validator-ui.vercel.app"
+              )
               .AllowAnyHeader()
               .AllowAnyMethod();
     });

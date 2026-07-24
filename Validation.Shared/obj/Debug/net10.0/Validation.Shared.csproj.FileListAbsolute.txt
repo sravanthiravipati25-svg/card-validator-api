@@ -9,3 +9,4 @@ C:\Users\Sravanthi\IdentityPaymentValidator.Microservices\src\Validation.Shared\
 C:\Users\Sravanthi\IdentityPaymentValidator.Microservices\src\Validation.Shared\obj\Debug\net10.0\refint\Validation.Shared.dll
 C:\Users\Sravanthi\IdentityPaymentValidator.Microservices\src\Validation.Shared\obj\Debug\net10.0\Validation.Shared.pdb
 C:\Users\Sravanthi\IdentityPaymentValidator.Microservices\src\Validation.Shared\obj\Debug\net10.0\ref\Validation.Shared.dll
+C:\Users\Sravanthi\IdentityPaymentValidator.Microservices\src\Validation.Shared\obj\Debug\net10.0\Validation.Shared.sourcelink.json

@@ -161,4 +161,8 @@ C:\Users\Sravanthi\IdentityPaymentValidator.Microservices\src\Validation.CardSer
 C:\Users\Sravanthi\IdentityPaymentValidator.Microservices\src\Validation.CardService\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
 C:\Users\Sravanthi\IdentityPaymentValidator.Microservices\src\Validation.CardService\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
 C:\Users\Sravanthi\IdentityPaymentValidator.Microservices\src\Validation.CardService\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-C:\Users\Sravanthi\IdentityPaymentValidator.Microservices\src\Validation.CardService\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\Sravanthi\IdentityPaymentValidator.Microservices\src\Validation.CardService\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\Sravanthi\IdentityPaymentValidator.Microservices\src\Validation.CardService\bin\Debug\net10.0\Npgsql.dll
+C:\Users\Sravanthi\IdentityPaymentValidator.Microservices\src\Validation.CardService\bin\Debug\net10.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Sravanthi\IdentityPaymentValidator.Microservices\src\Validation.CardService\bin\Debug\net10.0\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+C:\Users\Sravanthi\IdentityPaymentValidator.Microservices\src\Validation.CardService\obj\Debug\net10.0\Validation.CardService.sourcelink.json
